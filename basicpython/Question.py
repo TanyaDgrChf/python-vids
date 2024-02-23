@@ -1,0 +1,1 @@
+# Create a solver for the voltorb flip game which is based off of https://bulbapedia.bulbagarden.net/wiki/Voltorb_Flip

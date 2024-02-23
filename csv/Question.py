@@ -1,0 +1,1 @@
+# Find all countries with a higher gun violence rate than canada but with a lower GDP per capita
